@@ -45,7 +45,7 @@
                 android:layout_toStartOf="@+id/qa_btn"
                 android:background="@null"
                 android:hint="@string/question_input_hint"
-                android:text="What is the capital of California?"/>
+                android:text="When was the Leipzig University founded?"/>
 
             <ImageView
                 android:id="@+id/qa_btn"
