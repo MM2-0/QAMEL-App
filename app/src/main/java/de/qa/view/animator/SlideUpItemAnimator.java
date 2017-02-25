@@ -38,7 +38,9 @@ public class SlideUpItemAnimator extends SimpleItemAnimator {
 
     @Override
     public boolean animateChange(RecyclerView.ViewHolder oldHolder, RecyclerView.ViewHolder newHolder, int fromLeft, int fromTop, int toLeft, int toTop) {
-        return false
+        return false;
+    }
+
     @Override
     public void runPendingAnimations() {
 
