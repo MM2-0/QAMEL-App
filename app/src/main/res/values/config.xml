@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_wdaquaUrl">http://wdaqua-qanary.univ-st-etienne.fr/gerbil</string>
+    <!-- Need a static way to get Context to access this -->
+    <string name="config_uriNameQuery">dbpedia.org/sparql/?query=select+%3Fo+%7B+&lt;%1$s&gt;+rdfs%3Alabel+%3Fo+.+%7D%0D%0A&amp;format=application%2Fsparql-results%2Bjson</string>
+</resources>
