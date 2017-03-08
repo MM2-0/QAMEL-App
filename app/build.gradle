@@ -37,7 +37,7 @@ dependencies {
     compile 'com.android.support:support-v4:25.2.0'
     compile 'com.android.support:customtabs:25.2.0'
     compile 'com.android.support:multidex:1.0.1'
-    // RDF4J depencencies >
+    // RDF4J dependencies >
     compile 'com.google.guava:guava:20.0'
     compile 'org.slf4j:slf4j-android:1.7.23'
     compile 'commons-io:commons-io:2.5'
